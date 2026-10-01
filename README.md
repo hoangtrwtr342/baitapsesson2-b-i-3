@@ -20,6 +20,7 @@ I.XÁC ĐỊNH CẤU TRÚC
   
 II,XỬ LÝ TÌNH HUỐNG
  3. Áp dụng DIKW
+ 
     - Các số đo 2°C, 3°C thu liên tục là Data (Dữ liệu): những giá trị thô chưa có nhiều ngữ cảnh.
     
     - “Thùng xe số 5 đang tăng nhiệt độ quá mức an toàn” là Information (Thông tin): các số đo đã được gắn với xe, xu hướng và ngưỡng an toàn để có ý nghĩa.
