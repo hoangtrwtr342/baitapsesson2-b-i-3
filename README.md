@@ -30,6 +30,7 @@ II,XỬ LÝ TÌNH HUỐNG
         Một ngày có:
     24 × 60 × 60 = 86.400 giây
     Giả sử dùng đơn vị thập phân (1 MB = 1.000 KB; 1 GB = 1.000 MB):
-    - 1 xe tải: 86.400 giây × 1 KB = 86.400 KB = 86,4 MB/ngày
+    
+    - 1 xe tải: 86.400 giây × 1 KB = 86.400 KB = 86,4 MB/ngày.
     - 1.000 xe tải: 86,4 MB × 1.000 = 86.400 MB = 86,4 GB/ngày
     Đây là dung lượng log thô, chưa tính phần dữ liệu phụ trợ, bản sao lưu hay mức tăng do định dạng lưu trữ.
